@@ -17,7 +17,7 @@
 
                     <div class="form-group">
                         <label>Product</label>
-                        <select name="product" class="form-control js" id="product_search">
+                        <select name="product" class="form-control" id="product_search">
                             <option value="">Select</option>
 
                         </select>
